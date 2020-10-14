@@ -8,6 +8,7 @@ Introdução
 No âmbito da cadeira de Visão por computador na indústria foi desenvolvido um algoritmo de
 deteção e classificação de legos. Este algoritmo recebe imagens com multiplos e diversos legos e procede à identificação e classificação de cada lego em função da sua forma e cor.
 
+
 Tratamento inicial
 
 O algoritmo começa com o redimensionamento da imagem RGB original para uma imagem
